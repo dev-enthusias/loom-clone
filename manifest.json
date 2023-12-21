@@ -4,6 +4,7 @@
   "description": "This extension helps you record and share help videos with ease.",
   "version": "1.0",
   "action": {
-    "default_popup": "index.html"
+    "default_popup": "index.html",
+    "default_icon": "./src/assets/icon_32.png"
   }
 }
